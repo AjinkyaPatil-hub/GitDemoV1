@@ -6,6 +6,10 @@ public static void main(String[] args) {
 	public Test1() {
 		for(int i=0;i<10;i++) {
 			System.out.println("Github"+i);
+			
+			System.out.println("I have changed.."+i);
+			
+			
 		}
 	}
 }
