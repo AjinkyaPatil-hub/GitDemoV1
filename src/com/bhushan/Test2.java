@@ -9,6 +9,6 @@ public class Test2 {
 	}
 	
 	public static void reverseString() {
-		
+		System.out.println("Hiiii");
 	}
 }
