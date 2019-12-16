@@ -11,4 +11,17 @@ public class Test2 {
 	public static void reverseString(String str) {
 		System.out.println("Hiiii");
 	}
+	
+	public static void reverseString(String str) {
+		System.out.println("Hiiii");
+	}
+	public static void reverseString(String str) {
+		System.out.println("Hiiii");
+	}
+	public static void reverseString(String str) {
+		System.out.println("Hiiii");
+	}
+	public static void reverseString(String str) {
+		System.out.println("Hiiii");
+	}
 }
